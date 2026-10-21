@@ -196,17 +196,6 @@ liability** for misuse of this tool.
 
 ## Screenshots
 
-### IBM Bob building the scanner
-![Bob building the scanner](Screenshots/bob_chat.png)
-
-### Files created by Bob
-![Files created by Bob](Screenshots/bob_files.png)
-
-### Terminal scan result
-![Terminal scan output](Screenshots/scan_output.png)
-
-### HTML report
-![HTML report](Screenshots/report.png)
 
 ---
 
