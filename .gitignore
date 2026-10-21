@@ -1,0 +1,21 @@
+﻿# Virtual environment
+.venv/
+venv/
+env/
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+
+# Scanner output reports (generated at runtime)
+report_*.html
+report_*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp

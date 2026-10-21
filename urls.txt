@@ -1,0 +1,6 @@
+# urls.txt — one URL per line
+# Lines starting with # are treated as comments and ignored.
+# Blank lines are also ignored.
+https://example.com
+https://github.com
+https://kit25cseasherlins-dotcom.github.io/Sherlin-s-Portfolio/
