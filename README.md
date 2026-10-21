@@ -90,7 +90,7 @@ bob-web-security-scanner/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/bob-web-security-scanner.git
+git clone https://github.com/kit25cseasherlins-dotcom/bob-web-security-scanner.git
 cd bob-web-security-scanner
 
 # 2. (Recommended) Create and activate a virtual environment
@@ -196,6 +196,9 @@ liability** for misuse of this tool.
 
 ## Screenshots
 
+**Terminal scan result**
+
+![Terminal scan result](Screenshots/scan_output.png)
 
 ---
 
